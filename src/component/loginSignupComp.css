@@ -291,11 +291,11 @@ h4:hover {
   }
 
   .form-style {
-    padding: 6px;
+    padding: 12px;
   }
 
   .btn {
-    padding: 10px;
+    padding: 12px;
     font-size: 15px;
   }
 
@@ -304,18 +304,17 @@ h4:hover {
     top: 5px;
   }
   .styled-heading {
-    padding: 8px;
-    font-size: 1.5rem;
+    padding: 12px;
+    font-size: 1.7rem;
     border-width: 1px;
     letter-spacing: 1px;
-    margin-top: 0.5px;
+    margin-top: 0.9px;
     margin-bottom: 25px;
   }
   .signup {
     margin-bottom: 25px;
     margin-top: 5px;
     font-size: xx-large;
-    /* padding: 15px; */
   }
   .auth-toggle-btn {
     display: inline-block;
