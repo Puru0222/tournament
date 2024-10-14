@@ -286,8 +286,8 @@ h4:hover {
   }
 
   .card-3d-wrap {
-    max-width: 300px;
-    height: 450px;
+    max-width: 350px;
+    height: 500px;
   }
 
   .form-style {
@@ -316,5 +316,9 @@ h4:hover {
     margin-top: 5px;
     font-size: xx-large;
     /* padding: 15px; */
+  }
+  .auth-toggle-btn {
+    display: inline-block;
+    padding: 15px 30px;
   }
 }
